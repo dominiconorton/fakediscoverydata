@@ -1,5 +1,12 @@
-{
-	"id": "cbdd1055eed6e0a7ae6fa09f570d4ef9_1",
-	"subtitle": "Facebook Data Policy",
-	"text": "This Policy describes the information we process to support Facebook, Instagram, Messenger and other products and features offered by Facebook (Facebook Products or Products). You can find additional tools and information in the Facebook settings and Instagram settings."
-}
+[
+	{
+		"id" : "cbdd1055eed6e0a7ae6fa09f570d4ef9_1",
+		"subtitle" : "Data Policy",
+		"text": "This Policy describes the information we process to support Facebook, Instagram, Messenger and other products and features offered by Facebook (Facebook Products or Products). You can find additional tools and information in the Facebook settings and Instagram settings."
+	},
+	{
+		"id" : "cbdd1055eed6e0a7ae6fa09f570d4ef9_3"
+		"subtitle" : "Device Information"
+		"text" : "As described below, we collect information from and about the computers, phones, connected TVs and other web-connected devices you use that integrate with our Products, and we combine this information across different devices you use. For example, we use information collected about your use of our Products on your phone to better personalise the content (including ads) or features that you see when you use our Products on another device, such as your laptop or tablet, or to measure whether you took an action in response to an ad that we showed you on your phone on a different device. Information we obtain from these devices includes:  Device attributes: information such as the operating system, hardware and software versions, battery level, signal strength, available storage space, browser type, app and file names and types, and plugins.  Device operations: information about operations and behaviours performed on the device, such as whether a window is foregrounded or backgrounded, or mouse movements (wh..."
+	},
+]
